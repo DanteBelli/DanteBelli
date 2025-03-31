@@ -20,7 +20,7 @@ DevOps & Tools: CI/CD Pipelines, Slack, Trello
 
 
 📌 Featured Projects
-
+  LostPaws
 
 📊 GitHub Stats
 
